@@ -1,6 +1,5 @@
 from django.db import models
 from django.utils.text import slugify
-
 from userprofile.models import User
 from category.models import Category
 from tag.models import Tag
